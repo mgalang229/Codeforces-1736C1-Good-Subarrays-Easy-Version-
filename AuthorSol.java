@@ -9,6 +9,27 @@ import java.util.StringTokenizer;
 /*
 
 sample input:
+2 1 4 3
+
+good subarrays:
+2
+
+1
+
+1 4
+4
+
+1 4 3
+4 3
+3
+
+= 1 + 1 + 2 + 3
+
+answer: 7
+
+--------------------------------------------
+
+sample input:
 1
 4
 2 2 4 3
