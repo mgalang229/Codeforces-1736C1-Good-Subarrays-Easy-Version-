@@ -6,6 +6,31 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.StringTokenizer;
 
+/*
+
+sample input:
+1
+4
+2 2 4 3
+
+good subarrays:
+2
+2 2
+2 2 4
+
+2
+2 4
+2 4 3
+
+4
+4 3
+
+3
+
+answer: 9 
+
+*/
+
 public class AuthorSol {
 	
 	public static void main(String[] args) {
